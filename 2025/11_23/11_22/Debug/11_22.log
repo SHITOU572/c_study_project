@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 _ADD，函数 _main 中引用了该符号
+D:\code\C\2025\11_22\Debug\11_22.exe : fatal error LNK1120: 1 个无法解析的外部命令

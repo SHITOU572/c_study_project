@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\2025\\test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F9EF-F3FD-4CDB-8362-58AE88809306}|test2\\test2.pyproj|D:\\code\\C\\2025\\test2\\test2\\test2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9603F9EF-F3FD-4CDB-8362-58AE88809306}|test2\\test2.pyproj|solutionrelative:test2\\test2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test2.py",
+              "DocumentMoniker": "D:\\code\\C\\2025\\test2\\test2\\test2.py",
+              "RelativeDocumentMoniker": "test2\\test2.py",
+              "ToolTip": "D:\\code\\C\\2025\\test2\\test2\\test2.py*",
+              "RelativeToolTip": "test2\\test2.py*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-09-28T23:59:17.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

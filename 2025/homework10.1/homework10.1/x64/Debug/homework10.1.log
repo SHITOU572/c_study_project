@@ -1,0 +1,140 @@
+﻿  1-1.c
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(49,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(64,7): error C2371: “a”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(37,8):
+      参见“a”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(64,10): error C2371: “b”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(38,8):
+      参见“b”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(87,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(87,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(87,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(87,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(87,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(87,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(95,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(96,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(97,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(113,7): error C2086: “char ch”: 重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(86,7):
+      参见“ch”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(122,6): error C2371: “a”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(37,8):
+      参见“a”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(123,6): error C2371: “b”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(38,8):
+      参见“b”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(129,6): error C2371: “a”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(37,8):
+      参见“a”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(138,8): warning C4142: "x": 类型的良性重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(16,6):
+      参见“x”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(138,8): error C2374: “x”: 重定义；多次初始化
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(16,6):
+      参见“x”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(139,9): error C2371: “y”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(17,6):
+      参见“y”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(140,9): warning C4477: “printf”: 格式字符串“% f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(140,9): warning C4477: “printf”: 格式字符串“% 10.4f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(140,9): warning C4477: “printf”: 格式字符串“% .4f”需要类型“double”的参数，但可变参数 3 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(141,9): warning C4477: “printf”: 格式字符串“% 16f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(141,9): warning C4477: “printf”: 格式字符串“% -10.4f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(142,9): warning C4477: “printf”: 格式字符串“% f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(142,9): warning C4477: “printf”: 格式字符串“% 10.4f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(142,9): warning C4477: “printf”: 格式字符串“% .4f”需要类型“double”的参数，但可变参数 3 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(143,9): warning C4477: “printf”: 格式字符串“% 16f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(143,9): warning C4477: “printf”: 格式字符串“% -10.4f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(146,6): error C2371: “a”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(37,8):
+      参见“a”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(147,6): error C2371: “b”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(38,8):
+      参见“b”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(158,8): error C2371: “a”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(37,8):
+      参见“a”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(159,8): error C2371: “b”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(38,8):
+      参见“b”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(160,8): warning C4142: "c": 类型的良性重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(124,7):
+      参见“c”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(160,8): error C2374: “c”: 重定义；多次初始化
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(124,7):
+      参见“c”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(161,8): error C2086: “float s”: 重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(91,14):
+      参见“s”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(162,8): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“short *”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(162,8): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 2 拥有了类型“short *”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(162,8): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 3 拥有了类型“long *”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(163,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(168,6): error C2086: “int i”: 重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(75,6):
+      参见“i”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(177,8): warning C4142: "i": 类型的良性重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(75,6):
+      参见“i”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(177,8): error C2086: “int i”: 重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(75,6):
+      参见“i”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(178,8): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“int *”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(179,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(180,9): warning C4477: “printf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(184,8): error C2086: “float r”: 重定义
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(91,11):
+      参见“r”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(187,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(192,6): error C2371: “a”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(37,8):
+      参见“a”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(193,6): error C2371: “b”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(38,8):
+      参见“b”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(196,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(196,8):
+      请考虑在格式字符串中使用“%hd”
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(196,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“short *”
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(196,8):
+      请考虑在格式字符串中使用“%hd”
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(204,6): error C2371: “a”: 重定义；不同的基类型
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(37,8):
+      参见“a”的声明
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(205,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+      D:\code\C\2025\homework10.1\homework10.1\1-1.c(205,8):
+      请考虑在格式字符串中使用“%hd”
+  
+D:\code\C\2025\homework10.1\homework10.1\1-1.c(46,12): warning C4305: “初始化”: 从“double”到“float”截断

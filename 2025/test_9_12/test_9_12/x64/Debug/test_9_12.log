@@ -1,0 +1,4 @@
+﻿  TEST_9_12.c
+D:\code\C\2025\test_9_12\test_9_12\TEST_9_12.c(44,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\code\C\2025\test_9_12\test_9_12\TEST_9_12.c(46,7): error C2065: “x”: 未声明的标识符
+D:\code\C\2025\test_9_12\test_9_12\TEST_9_12.c(46,11): error C2065: “y”: 未声明的标识符

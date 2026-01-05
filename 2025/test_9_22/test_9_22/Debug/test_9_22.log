@@ -1,0 +1,4 @@
+﻿  test.c
+D:\code\C\2025\test_9_22\test_9_22\test.c(140,6): warning C4047: “函数”:“int”与“int [10]”的间接级别不同
+D:\code\C\2025\test_9_22\test_9_22\test.c(140,6): warning C4024: “fun”: 形参和实参 1 的类型不同
+  test_9_22.vcxproj -> D:\code\C\2025\test_9_22\Debug\test_9_22.exe

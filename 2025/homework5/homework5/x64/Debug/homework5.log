@@ -1,0 +1,9 @@
+﻿  1.c
+D:\code\C\2025\homework5\homework5\1.c(218,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\C\2025\homework5\homework5\1.c(228,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework5\homework5\1.c(231,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework5\homework5\1.c(235,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework5\homework5\1.c(238,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework5\homework5\1.c(241,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework5\homework5\1.c(243,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  homework5.vcxproj -> D:\code\C\2025\homework5\x64\Debug\homework5.exe

@@ -1,0 +1,6 @@
+﻿  test.c
+D:\code\C\2025\homework7\test.c(218,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework7\test.c(219,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\C\2025\homework7\test.c(214,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\code\C\2025\homework7\test.c(214,12): warning C4101: “x1”: 未引用的局部变量
+  homework7.vcxproj -> D:\code\C\2025\homework7\x64\Debug\homework7.exe

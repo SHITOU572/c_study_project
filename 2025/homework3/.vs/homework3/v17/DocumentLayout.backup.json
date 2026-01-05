@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\2025\\homework3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD5CF7-A00B-4467-AE49-88EF8B9449EA}|homework3\\homework3.vcxproj|D:\\code\\C\\2025\\homework3\\homework3\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDD5CF7-A00B-4467-AE49-88EF8B9449EA}|homework3\\homework3.vcxproj|solutionrelative:homework3\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "D:\\code\\C\\2025\\homework3\\homework3\\2.c",
+              "RelativeDocumentMoniker": "homework3\\2.c",
+              "ToolTip": "D:\\code\\C\\2025\\homework3\\homework3\\2.c*",
+              "RelativeToolTip": "homework3\\2.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-10T12:25:25.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

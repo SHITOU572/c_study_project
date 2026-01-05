@@ -1,0 +1,13 @@
+﻿  game.c
+D:\code\C\2025\test_10_19\test_10_19\game.c(74,14): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  test.c
+D:\code\C\2025\test_10_19\test_10_19\test.c(29,18): warning C4047: “函数”:“char (*)[3]”与“char”的间接级别不同
+D:\code\C\2025\test_10_19\test_10_19\test.c(29,18): warning C4024: “yonghu”: 形参和实参 1 的类型不同
+D:\code\C\2025\test_10_19\test_10_19\test.c(31,17): warning C4047: “函数”:“char (*)[3]”与“char”的间接级别不同
+D:\code\C\2025\test_10_19\test_10_19\test.c(31,17): warning C4024: “qipan”: 形参和实参 1 的类型不同
+D:\code\C\2025\test_10_19\test_10_19\test.c(33,29): warning C4047: “函数”:“char (*)[3]”与“char”的间接级别不同
+D:\code\C\2025\test_10_19\test_10_19\test.c(33,29): warning C4024: “Isfull”: 形参和实参 1 的类型不同
+D:\code\C\2025\test_10_19\test_10_19\test.c(34,29): warning C4047: “函数”:“char (*)[3]”与“char”的间接级别不同
+D:\code\C\2025\test_10_19\test_10_19\test.c(34,29): warning C4024: “Iswin”: 形参和实参 1 的类型不同
+  正在生成代码...
+  test_10_19.vcxproj -> D:\code\C\2025\test_10_19\x64\Debug\test_10_19.exe
